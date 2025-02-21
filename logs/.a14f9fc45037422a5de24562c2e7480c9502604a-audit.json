@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 14
+    },
+    "auditLog": "logs/.a14f9fc45037422a5de24562c2e7480c9502604a-audit.json",
+    "files": [
+        {
+            "date": 1740168998205,
+            "name": "logs/pura.log-20250221",
+            "hash": "e66fd719d03e9be1e78362da0158edf112d604963bc7d3e4feeea28de16cd9b8"
+        }
+    ],
+    "hashType": "sha256"
+}

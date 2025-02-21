@@ -23,6 +23,15 @@ datasource db {
 //   created_at  DateTime
 // } 
 
+model blocks_anchor {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  user_id     String
+  destination Json
+  last_update DateTime
+  created_at  DateTime
+}
+
 model blocks_playback {
   id          String   @id @default(auto()) @map("_id") @db.ObjectId
   name        String

@@ -1,0 +1,14 @@
+[2025-02-21 17:17:29.104] [INFO    ] pura: hello, world
+[2025-02-21 17:17:40.327] [INFO    ] pura: hello, world
+[2025-02-21 17:19:36.538] [INFO    ] pura: hello, world
+[2025-02-21 17:19:36.538] [DEBUG   ] pura: test
+[2025-02-21 17:27:16.617] [DEBUG   ] pura.mapper.add: 🔰 Adding node Boas vindas
+[2025-02-21 17:27:43.792] [DEBUG   ] pura.mapper.add: 🔰 Adding node Boas vindas
+[2025-02-21 17:27:50.977] [DEBUG   ] pura.mapper.add: 🔰 Adding node Boas vindas
+[2025-02-21 17:28:07.925] [DEBUG   ] pura.mapper.add: 🔰 Adding node Boas vindas
+[2025-02-21 17:29:38.130] [DEBUG   ] pura.mapper.add: 🔰 Adding node Boas vindas
+[2025-02-21 17:29:57.055] [DEBUG   ] pura.mapper.add: 🔰 Adding node 67b8e245f4292649e6be0a0f ("Boas vindas")
+[2025-02-21 17:32:30.945] [DEBUG   ] pura.mapper.add: + Node 67b8e2de111f5c3d9e20190d (playback :: "Boas vindas")
+[2025-02-21 17:34:25.571] [DEBUG   ] pura.mapper.add: Node 67b8e3513a171b90d7cbe4ce (playback: Boas vindas)
+[2025-02-21 17:45:42.121] [DEBUG   ] pura.mapper.add: Node 67b8e5f6a30c02738d7cb5d8 (playback: "Boas vindas")
+[2025-02-21 17:55:35.704] [DEBUG   ] pura.mapper.add: Node 67b8e8475c1b214891b50498 (playback: "Boas vindas")
